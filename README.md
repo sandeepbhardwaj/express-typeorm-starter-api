@@ -4,9 +4,15 @@
 Install depencencies
 
 1. Dependencies
+`npm i dotenv jsonwebtoken class-validator bcryptjs`
+
+npm install --save express-async-handler
+
 2. Dev Dependencies
-`npm i --save-dev @types/express`
+`npm i --save-dev @types/dotenv @types/express @types/jsonwebtoken @types/bcryptjs`
 `npm i -D nodemon prettier`
+
+
 
 
 Steps to run this project:
